@@ -1,1 +1,1 @@
-nohup pyega3 -cf CredentialS_File.json -c 20 fetch EGAD00001000705 > 20200722.logfile 2>&1 &
+nohup pyega3 -cf CredentialS_File.json -c 20 fetch EGADXXXXXXXXXXXX > 20200722.logfile 2>&1 &
